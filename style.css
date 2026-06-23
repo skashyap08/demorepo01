@@ -153,3 +153,10 @@ grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
 gap:30px;
 margin-top:50px;
 }
+.plan-card{
+background:#111;
+padding:40px;
+border-radius:20px;
+transition:.4s;
+position:relative;
+}
