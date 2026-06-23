@@ -66,3 +66,17 @@ align-items:center;
 text-align:center;
 padding:20px;
 }
+.hero-content h1{
+font-size:4rem;
+margin-bottom:20px;
+}
+
+.hero-content p{
+font-size:1.3rem;
+margin-bottom:30px;
+}
+
+.email-box{
+display:flex;
+gap:10px;
+}
