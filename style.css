@@ -80,3 +80,9 @@ margin-bottom:30px;
 display:flex;
 gap:10px;
 }
+.email-box input{
+padding:15px;
+width:320px;
+border:none;
+border-radius:5px;
+}
