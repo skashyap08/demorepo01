@@ -138,3 +138,7 @@ padding:40px;
 border-radius:20px;
 transition:.4s;
 }
+.feature:hover{
+transform:translateY(-10px);
+box-shadow:0 0 20px #e50914;
+}
