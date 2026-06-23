@@ -200,3 +200,27 @@ margin:auto;
 text-align:center;
 margin-bottom:40px;
 }
+.question{
+width:100%;
+padding:20px;
+background:#111;
+color:white;
+border:none;
+display:flex;
+justify-content:space-between;
+cursor:pointer;
+font-size:1rem;
+}
+
+.answer{
+max-height:0;
+overflow:hidden;
+background:#222;
+padding:0 20px;
+transition:.4s;
+}
+
+.answer.show{
+max-height:200px;
+padding:20px;
+}
