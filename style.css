@@ -178,3 +178,16 @@ color:white;
 cursor:pointer;
 border-radius:8px;
 }
+.popular{
+border:2px solid #e50914;
+}
+
+.popular span{
+position:absolute;
+top:-12px;
+left:50%;
+transform:translateX(-50%);
+background:#e50914;
+padding:5px 15px;
+border-radius:20px;
+}
