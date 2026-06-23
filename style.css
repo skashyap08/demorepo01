@@ -40,3 +40,12 @@ display:flex;
 gap:30px;
 list-style:none;
 }
+.nav-links a{
+text-decoration:none;
+color:white;
+transition:.3s;
+}
+
+.nav-links a:hover{
+color:#e50914;
+}
