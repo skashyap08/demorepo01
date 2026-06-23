@@ -160,3 +160,21 @@ border-radius:20px;
 transition:.4s;
 position:relative;
 }
+.plan-card:hover{
+transform:translateY(-10px);
+}
+
+.plan-card h1{
+font-size:3rem;
+color:#e50914;
+}
+
+.plan-card button{
+margin-top:20px;
+padding:12px 25px;
+background:#e50914;
+border:none;
+color:white;
+cursor:pointer;
+border-radius:8px;
+}
