@@ -224,3 +224,30 @@ transition:.4s;
 max-height:200px;
 padding:20px;
 }
+footer{
+padding:40px;
+text-align:center;
+background:#111;
+}
+
+/* RESPONSIVE */
+
+@media(max-width:768px){
+
+.hero-content h1{
+font-size:2.5rem;
+}
+
+.email-box{
+flex-direction:column;
+}
+
+.email-box input{
+width:100%;
+}
+
+.nav-links{
+display:none;
+}
+
+}
