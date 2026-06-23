@@ -19,3 +19,14 @@ background-position:center;
 display:flex;
 flex-direction:column;
 }
+.navbar{
+position:fixed;
+width:100%;
+padding:20px 8%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:rgba(0,0,0,.4);
+backdrop-filter:blur(12px);
+z-index:1000;
+}
